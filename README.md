@@ -4,5 +4,3 @@
  - [라마이미지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkuvyrqDDe5qfDUundZ_WFSNeKq0DFmOl5HQ&s)를 사용했습니다.
  - 백그라운드 이미지까지 바꿀 수 있음!
 
-
-===
